@@ -1,13 +1,4 @@
-::: {align="center"}
 # ✦ Excel Insights Studio ✦
-
-### *From raw rows to meaningful insights.*
-
-A thoughtfully organized Excel workbook exploring student performance,
-sales trends, and employee data --- powered by formulas, logic, and
-visual summaries.
-
-`<br>`{=html}
 
 ![Excel](https://img.shields.io/badge/Made%20with-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-Data%20Analysis-6C63FF?style=for-the-badge)
@@ -89,8 +80,5 @@ summarizing information for reporting.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
 ### 👩‍💻 Created by **Nemisha Dave**
-
-*Learning Excel. Finding patterns. Making data speak.*
-:::
+/nAI/ML - Data Science
